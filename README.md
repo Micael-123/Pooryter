@@ -1,2 +1,2 @@
-# Pooryter
-Projeto criado na disciplina de autoria web
+# Pooryper
+Criado na disciplina de autoria web
